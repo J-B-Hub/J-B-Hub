@@ -281,7 +281,7 @@
 <samp>
   <i>"No juego para ganar, programo para crear mundos donde otros puedan hacerlo."</i>
   <br />
-  <sub>— yo, probablemente un domingo con ansiedad AM</sub>
+  <sub>— yo, probablemente un domingo con ansiedad</sub>
 </samp>
 
 </div>
